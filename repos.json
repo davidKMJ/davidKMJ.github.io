@@ -1,0 +1,154 @@
+[
+    {
+      "name": "strategy-based-crowd-flow-dynamics",
+      "link": "https://github.com/davidKMJ/strategy-based-crowd-flow-dynamics",
+      "tags": ["python", "jupyter-notebook", "agent-based-simulation", "crowd-simulation", "physics-simulation", "dynamic-time-warping", "optimization"],
+      "category": "research",
+      "description": "Code accompanying a paper on strategy-based crowd flow dynamics: an agent-based crowd simulator combining decision-level strategy with physical interaction (spring–damper contact forces), calibrated to real-world trajectories via dynamic time warping and hyperparameter optimization.",
+	  "importance": 10
+    },
+    {
+      "name": "ai-agent-architectures",
+      "link": "https://github.com/davidKMJ/ai-agent-architectures",
+      "tags": ["langgraph", "langchain", "multi-agent", "workflow-orchestration", "routing", "deployment-patterns", "jupyter-notebook", "A2A"],
+      "category": "learning-project",
+      "description": "Collection of LangGraph/LangChain-based AI agent architecture demos (multi-agent routing, workflow orchestration, and deployment patterns) designed for rapid experimentation.",
+	  "importance": 8
+    },
+    {
+      "name": "langgraph-basics",
+      "link": "https://github.com/davidKMJ/langgraph-basics",
+      "tags": ["langgraph", "python", "jupyter-notebook", "agent-orchestration", "state-management", "human-in-the-loop", "parallel-processing"],
+      "category": "learning-project",
+      "description": "Learning projects demonstrating graph-based agent orchestration, state management, human-in-the-loop workflows, and parallel execution patterns using LangGraph.",
+	  "importance": 7
+    },
+    {
+      "name": "google-adk-basics",
+      "link": "https://github.com/davidKMJ/google-adk-basics",
+      "tags": ["google-adk", "python", "multi-agent", "tool-integration", "agent-orchestration", "sub-agents"],
+      "category": "learning-project",
+      "description": "AI agent projects built with Google ADK (Agent Development Kit) demonstrating multi-agent orchestration, specialized sub-agents, and tool integration.",
+	  "importance": 7
+    },
+    {
+      "name": "openai-agent-sdk-basics",
+      "link": "https://github.com/davidKMJ/openai-agent-sdk-basics",
+      "tags": ["openai-agents-sdk", "python", "streamlit", "tool-calling", "mcp", "voice"],
+      "category": "learning-project",
+      "description": "Agent demos built with the OpenAI Agents SDK, including a tool-using chat assistant and a voice-based customer support triage system with specialist handoffs.",
+	  "importance": 6
+    },
+    {
+      "name": "ai-agent-basics",
+      "link": "https://github.com/davidKMJ/ai-agent-basics",
+      "tags": ["crewai", "autogen", "jupyter-notebook", "agents", "automation", "research"],
+      "category": "learning-project",
+      "description": "Collection of CrewAI and AutoGen agent demos for automation, content creation, news curation, and research-oriented experiments.",
+	  "importance": 5
+    },
+    {
+      "name": "mit-6.9101",
+      "link": "https://github.com/davidKMJ/mit-6.9101",
+      "tags": ["mit", "course-archive", "design-thinking", "innovation", "leadership"],
+      "category": "coursework",
+      "description": "Archive of MIT Course 6.9101: Design-Thinking, Innovation and Leadership for Engineers (D-TILE).",
+	  "importance": 4
+    },
+    {
+      "name": "wemake",
+      "link": "https://github.com/davidKMJ/wemake",
+      "tags": ["react", "typescript", "react-router", "supabase", "fullstack", "community-platform"],
+      "category": "learning-project",
+      "description": "A community platform for makers to showcase products, discover jobs, form teams, and discuss ideas, built with React Router and Supabase.",
+	  "importance": 8
+    },
+    {
+      "name": "snu-happetite-expo-study",
+      "link": "https://github.com/davidKMJ/snu-happetite-expo-study",
+      "tags": ["react-native", "expo", "react-navigation", "javascript", "mobile"],
+      "category": "learning-project",
+      "description": "A React Native Expo app demonstrating complex navigation patterns using stack, bottom tab, and material top tab navigators.",
+	  "importance": 3
+    },
+    {
+      "name": "exis-algorithm",
+      "link": "https://github.com/davidKMJ/exis-algorithm",
+      "tags": ["html", "css", "javascript", "fitness", "algorithm"],
+      "category": "side-project",
+      "description": "A static web application for testing the EXIS algorithm that generates personalized workout plans based on user input.",
+	  "importance": 4
+    },
+    {
+      "name": "python-web-scraper",
+      "link": "https://github.com/davidKMJ/python-web-scraper",
+      "tags": ["python", "flask", "web-scraping", "job-aggregator", "crawler"],
+      "category": "side-project",
+      "description": "A Flask-based web application that aggregates job listings from multiple job boards into a unified search interface.",
+	  "importance": 2
+    },
+    {
+      "name": "snu-happetite-onion-game",
+      "link": "https://github.com/davidKMJ/snu-happetite-onion-game",
+      "tags": ["react-native", "expo", "typescript", "openai", "game"],
+      "category": "practice-project",
+      "description": "A Korean-language mobile game where you grow an onion by sending negative messages; positive messages cause the onion to die from embarrassment.",
+	  "importance": 8
+    },
+    {
+      "name": "exis-frontend",
+      "link": "https://github.com/davidKMJ/exis-frontend",
+      "tags": ["react-native", "expo", "typescript", "fitness", "authentication"],
+      "category": "side-project",
+      "description": "A cross-platform fitness tracking mobile application featuring workout progress tracking, authentication, and community engagement.",
+	  "importance": 7
+    },
+    {
+      "name": "snu-happetite-storage-study",
+      "link": "https://github.com/davidKMJ/snu-happetite-storage-study",
+      "tags": ["react-native", "expo", "typescript", "asyncstorage", "persistent-storage"],
+      "category": "learning-project",
+      "description": "A React Native Expo study project demonstrating persistent local data storage using AsyncStorage.",
+	  "importance": 3
+    },
+    {
+      "name": "kokoa-clone",
+      "link": "https://github.com/davidKMJ/kokoa-clone",
+      "tags": ["html", "css", "mobile-first", "frontend"],
+      "category": "learning-project",
+      "description": "A mobile-first HTML/CSS learning project that recreates the UI of a messaging application.",
+	  "importance": 2
+    },
+    {
+      "name": "momentum",
+      "link": "https://github.com/davidKMJ/momentum",
+      "tags": ["javascript", "html", "css", "weather-api", "todo"],
+      "category": "learning-project",
+      "description": "A personal dashboard app featuring a clock, weather information, todo list, and inspirational quotes.",
+	  "importance": 2
+    },
+    {
+      "name": "fullstack-gpt",
+      "link": "https://github.com/davidKMJ/fullstack-gpt",
+      "tags": ["llm", "openai", "python", "jupyter-notebook", "document-qa"],
+      "category": "learning-project",
+      "description": "A collection of GPT-powered applications including document Q&A, quiz generation, local model usage, and website content analysis.",
+	  "importance": 6
+    },
+    {
+      "name": "react-for-beginners",
+      "link": "https://github.com/davidKMJ/react-for-beginners",
+      "tags": ["react", "javascript", "react-router", "api", "frontend"],
+      "category": "learning-project",
+      "description": "A React-based movie browsing application that fetches data from an external API and demonstrates routing and component composition.",
+	  "importance": 3
+    },
+    {
+      "name": "meme-maker",
+      "link": "https://github.com/davidKMJ/meme-maker",
+      "tags": ["javascript", "html", "css", "canvas-api", "frontend"],
+      "category": "learning-project",
+      "description": "A browser-based meme creation tool using the HTML5 Canvas API for drawing, text overlay, and image export.",
+	  "importance": 3
+    }
+  ]
